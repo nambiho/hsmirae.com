@@ -15,7 +15,7 @@
 		<ul>
 			<li><header>Business</header></li>
 			<li>Reservation System</li>
-			<li>Scuba Diving Equipment</li>
+			<li>Scuba Diving Equipments</li>
 		</ul>
 	</div>
 </main>
