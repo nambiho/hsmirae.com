@@ -13,7 +13,9 @@
 
 	<div class="hsmirae-navigation-wrap">
 		<ul>
-			<li><header>Business</header></li>
+			<li>
+				<header>Business</header>
+			</li>
 			<li>Reservation System</li>
 			<li>Scuba Diving Equipments</li>
 		</ul>
