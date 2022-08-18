@@ -8,7 +8,7 @@
 
 	<div class="hsmirae-header">
 		<h1>HS Mirae</h1>
-		<p>Open the future of IT. Connect Anytime, Anywhere.</p>
+		<p>Open the future of IT. Connect anytime, anywhere.</p>
 	</div>
 
 	<div class="hsmirae-navigation-wrap">
