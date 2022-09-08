@@ -1,18 +1,19 @@
 <script>
+	import logo from '../assets/logos/HSMIRAE_LOGO_white_nobg.png'
 </script>
 
 <header class="p-2 text-bg-yellow">
 	<div class="container">
 		<div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
 			<a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
-				<img src="/assets/images/logos/HSMIRAE_LOGO_white_nobg.png" class="nav-logo" alt="">
+				<img src="{ logo }" class="nav-logo" alt="">
 			</a>
 
 			<ul class="nav nav-custom col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
 				<li><a href="#" class="nav-link px-2 text-secondary">Home</a></li>
 				<li><a href="#" class="nav-link px-2 text-dark">Features</a></li>
 				<li><a href="#" class="nav-link px-2 text-dark">Product</a></li>
-				<li><a href="#" class="nav-link px-2 text-dark">About</a></li>
+				<li><a href="#" class="nav-link px-2 text-dark">Contact Us</a></li>
 			</ul>
 		</div>
 	</div>
