@@ -21,7 +21,7 @@ const config = defineConfig({
     })
   ],
   server: {
-    host: 'localhost',
+    host: true,
     port: 5000
   }
 });
