@@ -42,7 +42,7 @@
 					<div class="card-body card-body-custom">
 						<h4 class="card-title">열정</h4>
 						<div class="card-text">우리는 우리가 해야 할 일들을 끊임없이 찾고, 그러한 일들을 꾸준히 해 나갑니다.</div>
-						<div class="card-text">해야야 할 일들의 작은 것 하나에도 우리의 열정과 노력으로 담아 해결 하고 있습니다.</div>
+						<div class="card-text">해야 할 일들의 작은 것 하나에도 우리의 열정과 노력으로 담아 해결하고 있습니다.</div>
 					</div>
 				</div>
 			</div>
@@ -53,7 +53,7 @@
 				<div class="col-md-9">
 					<div class="col card-body card-body-custom">
 						<h5 class="card-title">미래</h5>
-						<div class="card-text">우리가, 우리의 자녀들이 앞으로 살아 가야 할 미래의 사회와 문화를 만들어 가고자 합니다.</div>
+						<div class="card-text">우리가, 우리의 자녀들이 앞으로 살아가야 할 미래의 사회와 문화를 만들어 가고자 합니다.</div>
 						<div class="card-text">좋은 것들은 더 좋게 발전 시키고, 해로운 것은 해롭지 않은 방향으로 변경 해 나갑니다.</div>
 						<div class="card-text">언제나 좋은 미래가 올 것입니다.</div>
 					</div>
