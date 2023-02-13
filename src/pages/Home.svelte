@@ -90,7 +90,7 @@
 
 
 <style lang="scss">
-	$static_img: '/static/images/';
+	$static_img: '/static/images/home/';
 
 	@mixin get_main_card_bg ($color, $filename) {
 		$background: white !default;
